@@ -66,4 +66,3 @@ export class ShoppingEditComponent implements OnInit, OnDestroy {
   }
 
 }
-
